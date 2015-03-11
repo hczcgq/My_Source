@@ -1,0 +1,2 @@
+Animation rotate = AnimationUtils.loadAnimation(this, R.anim.my_rotate);
+view.startAnimation(rotate);	// 载人时的动画

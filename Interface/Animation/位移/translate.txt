@@ -1,0 +1,2 @@
+Animation translate = AnimationUtils.loadAnimation(this, R.anim.my_translate);
+view.startAnimation(translate);	// 载人时的动画
